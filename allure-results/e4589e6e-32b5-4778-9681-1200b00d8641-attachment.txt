@@ -1,0 +1,2 @@
+[32mINFO    [0m pages.catalog_page:catalog_page.py:27 Catalog image src: https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg
+[32mINFO    [0m pages.catalog_page:catalog_page.py:29 Clicking on product image for 'Sauce Labs Backpack' to navigate to product detail page. <selenium.webdriver.remote.webelement.WebElement (session="d0c640849cee4c1afae2e3e3d5d7a885", element="f.CCCECF991278EAB37797912187538C70.d.1CB75033DA3AC9BD6F557FA106454E39.e.26")>

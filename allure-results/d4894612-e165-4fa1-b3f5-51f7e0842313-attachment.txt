@@ -1,0 +1,2 @@
+2026-08-12 12:32:52,753 - CRITICAL - test_catalog - starting products availability for performance_glitch_user
+2026-08-12 12:32:58,945 - CRITICAL - test_catalog - logged in successfully

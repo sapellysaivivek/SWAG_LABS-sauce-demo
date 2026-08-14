@@ -1,0 +1,4 @@
+2026-08-11 15:53:11,008 - INFO - pages.catalog_page - Catalog image src: https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg
+2026-08-11 15:53:11,008 - INFO - pages.catalog_page - Clicking on product image for 'Sauce Labs Backpack' to navigate to product detail page. <selenium.webdriver.remote.webelement.WebElement (session="0d10cc25dc4cd9ae4bf243b0c01d9b34", element="f.FDF7E0642B52FD00027CD43ABD3CF08B.d.F96C6FF293BDAF03FA8D8754E7AFE048.e.25")>
+2026-08-11 15:53:11,285 - INFO - pages.catalog_page - Catalog image src: https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg, Detail image src: https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg
+2026-08-11 15:53:11,285 - INFO - pages.catalog_page - Product image matches for 'Sauce Labs Backpack'. https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg == https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg

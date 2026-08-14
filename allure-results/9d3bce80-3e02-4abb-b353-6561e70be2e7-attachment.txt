@@ -1,0 +1,2 @@
+2026-08-14 11:32:47,834 - CRITICAL - test_catalog - starting products availability for error_user
+2026-08-14 11:32:48,678 - CRITICAL - test_catalog - logged in successfully

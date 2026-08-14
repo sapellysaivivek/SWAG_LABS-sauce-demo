@@ -1,0 +1,2 @@
+[32mINFO    [0m pages.catalog_page:catalog_page.py:27 Catalog image src: https://www.saucedemo.com/assets/sl-404-Cq1a9k9X.jpg
+[32mINFO    [0m pages.catalog_page:catalog_page.py:29 Clicking on product image for 'Sauce Labs Backpack' to navigate to product detail page. <selenium.webdriver.remote.webelement.WebElement (session="f82af0b6324a040922ac8c3ec7bc03ac", element="f.32713E200BE6363F73DFBBD06FD757A1.d.33C2A78DFD7CDCA8217D47D21B36B8EB.e.26")>

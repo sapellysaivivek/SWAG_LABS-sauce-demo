@@ -1,0 +1,4 @@
+[32mINFO    [0m pages.catalog_page:catalog_page.py:27 Catalog image src: https://www.saucedemo.com/assets/sl-404-Cq1a9k9X.jpg
+[32mINFO    [0m pages.catalog_page:catalog_page.py:29 Clicking on product image for 'Sauce Labs Backpack' to navigate to product detail page. <selenium.webdriver.remote.webelement.WebElement (session="73b85514-80ac-4123-b0f0-ae761760828e", element="ffa346ea-91a8-4183-a237-949a45ee4f3d")>
+[32mINFO    [0m pages.catalog_page:catalog_page.py:60 Catalog image src: https://www.saucedemo.com/assets/sl-404-Cq1a9k9X.jpg, Detail image src: https://www.saucedemo.com/assets/sauce-pullover-1200x1500-BfbI-PSd.jpg
+[1m[31mERROR   [0m pages.catalog_page:catalog_page.py:72 Product image does not match for 'Sauce Labs Backpack'. https://www.saucedemo.com/assets/sauce-pullover-1200x1500-BfbI-PSd.jpg != https://www.saucedemo.com/assets/sl-404-Cq1a9k9X.jpg

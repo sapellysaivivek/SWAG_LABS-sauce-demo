@@ -1,0 +1,1 @@
+2026-08-12 12:34:22,718 - CRITICAL - test_catalog - testing image accuracy for error_user

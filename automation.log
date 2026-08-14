@@ -1,0 +1,109 @@
+2026-08-13 11:44:46,592 - CRITICAL - test_catalog - starting products availability for standard_user
+2026-08-13 11:44:47,817 - CRITICAL - test_catalog - logged in successfully
+2026-08-13 11:44:54,179 - CRITICAL - test_catalog - starting products availability for problem_user
+2026-08-13 11:44:55,295 - CRITICAL - test_catalog - logged in successfully
+2026-08-13 11:45:01,040 - CRITICAL - test_catalog - starting products availability for performance_glitch_user
+2026-08-13 11:45:07,207 - CRITICAL - test_catalog - logged in successfully
+2026-08-13 11:45:13,455 - CRITICAL - test_catalog - starting products availability for error_user
+2026-08-13 11:45:14,600 - CRITICAL - test_catalog - logged in successfully
+2026-08-13 11:45:20,518 - CRITICAL - test_catalog - starting products availability for visual_user
+2026-08-13 11:45:21,597 - CRITICAL - test_catalog - logged in successfully
+2026-08-13 11:45:29,039 - CRITICAL - test_catalog - testing image accuracy for standard_user
+2026-08-13 11:45:39,631 - CRITICAL - test_catalog - testing image accuracy for problem_user
+2026-08-13 11:45:55,343 - CRITICAL - test_catalog - testing image accuracy for performance_glitch_user
+2026-08-13 15:02:47,087 - INFO - pages.cart_page - ['Sauce Labs Backpack']
+2026-08-13 15:04:27,635 - INFO - pages.cart_page - ['Sauce Labs Backpack']
+2026-08-13 15:04:46,067 - INFO - pages.cart_page - ['Sauce Labs Backpack']
+2026-08-13 15:04:59,283 - INFO - pages.cart_page - ['Sauce Labs Backpack']
+2026-08-13 15:07:28,716 - INFO - pages.cart_page - ['Sauce Labs Backpack']
+2026-08-13 15:08:55,925 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:09:01,753 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:10:19,872 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:10:25,181 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:10:35,607 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:10:40,951 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:10:46,207 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:35:43,351 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:36:16,452 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:36:22,446 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:36:33,406 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:36:44,101 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:36:49,628 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:37:05,906 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:37:11,316 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:37:21,926 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:37:32,297 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-13 15:37:37,705 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:05:59,319 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:06:07,018 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:07:07,413 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:09:08,845 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:09:16,581 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:11:45,715 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:11:53,663 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:12:01,039 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:12:02,028 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:13:42,487 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:13:43,924 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:13:51,619 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:13:58,178 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:14:05,277 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:14:06,742 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:14:14,105 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:14:15,610 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:16:23,528 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:16:30,400 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:16:42,268 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:16:54,451 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:17:01,452 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 10:17:08,485 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:09,947 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:17,417 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:24,023 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:31,160 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:32,644 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:39,988 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:41,636 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 10:17:46,988 - CRITICAL - test_catalog - starting products availability for standard_user
+2026-08-14 10:17:48,243 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 10:17:53,831 - CRITICAL - test_catalog - starting products availability for problem_user
+2026-08-14 10:17:55,049 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 10:18:00,713 - CRITICAL - test_catalog - starting products availability for performance_glitch_user
+2026-08-14 10:18:06,908 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 10:18:12,575 - CRITICAL - test_catalog - starting products availability for error_user
+2026-08-14 10:18:13,824 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 10:18:19,587 - CRITICAL - test_catalog - starting products availability for visual_user
+2026-08-14 10:18:20,759 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 10:18:27,799 - CRITICAL - test_catalog - testing image accuracy for standard_user
+2026-08-14 10:18:38,489 - CRITICAL - test_catalog - testing image accuracy for problem_user
+2026-08-14 10:18:54,471 - CRITICAL - test_catalog - testing image accuracy for performance_glitch_user
+2026-08-14 10:19:36,210 - CRITICAL - test_catalog - testing image accuracy for error_user
+2026-08-14 10:19:46,788 - CRITICAL - test_catalog - testing image accuracy for visual_user
+2026-08-14 11:31:19,640 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 11:31:24,921 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 11:31:35,080 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 11:31:45,269 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 11:31:50,686 - INFO - pages.cart_page - ['Sauce Labs Bike Light']
+2026-08-14 11:31:56,244 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:31:57,132 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:03,474 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:09,569 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:15,107 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:16,155 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:21,792 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:22,784 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
+2026-08-14 11:32:26,972 - CRITICAL - test_catalog - starting products availability for standard_user
+2026-08-14 11:32:27,979 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 11:32:32,359 - CRITICAL - test_catalog - starting products availability for problem_user
+2026-08-14 11:32:33,328 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 11:32:37,612 - CRITICAL - test_catalog - starting products availability for performance_glitch_user
+2026-08-14 11:32:43,531 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 11:32:47,834 - CRITICAL - test_catalog - starting products availability for error_user
+2026-08-14 11:32:48,678 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 11:32:53,021 - CRITICAL - test_catalog - starting products availability for visual_user
+2026-08-14 11:32:54,033 - CRITICAL - test_catalog - logged in successfully
+2026-08-14 11:33:00,084 - CRITICAL - test_catalog - testing image accuracy for standard_user
+2026-08-14 11:33:08,594 - CRITICAL - test_catalog - testing image accuracy for problem_user
+2026-08-14 11:33:21,453 - CRITICAL - test_catalog - testing image accuracy for performance_glitch_user
+2026-08-14 11:33:58,953 - CRITICAL - test_catalog - testing image accuracy for error_user
+2026-08-14 11:34:06,173 - CRITICAL - test_catalog - testing image accuracy for visual_user
