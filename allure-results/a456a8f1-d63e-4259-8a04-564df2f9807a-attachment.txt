@@ -1,2 +1,0 @@
-[31mCRITICAL[0m test_catalog:test_catalog.py:25 starting products availability for performance_glitch_user
-[31mCRITICAL[0m test_catalog:test_catalog.py:30 logged in successfully

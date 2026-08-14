@@ -1,1 +1,0 @@
-2026-08-12 12:33:43,344 - CRITICAL - test_catalog - testing image accuracy for performance_glitch_user

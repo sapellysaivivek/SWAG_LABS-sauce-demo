@@ -1,1 +1,0 @@
-Products in cart for error_user: ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']

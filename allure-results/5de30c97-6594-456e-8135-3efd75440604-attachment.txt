@@ -1,2 +1,0 @@
-2026-08-08 17:24:59,250 - INFO - pages.catalog_page - Catalog image src: https://www.saucedemo.com/assets/sl-404-Cq1a9k9X.jpg
-2026-08-08 17:24:59,251 - INFO - pages.catalog_page - Clicking on product image for 'Sauce Labs Backpack' to navigate to product detail page. <selenium.webdriver.remote.webelement.WebElement (session="ad94b5c4f7ace2e321784d7f23d70acd", element="f.20E4B1296B3ABB742683E76A4EC21BC5.d.6B3B60F7389A83675F7E05139D4599E2.e.26")>

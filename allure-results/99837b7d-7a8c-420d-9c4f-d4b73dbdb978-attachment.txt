@@ -1,1 +1,0 @@
-2026-08-14 11:31:50,686 - INFO - pages.cart_page - ['Sauce Labs Bike Light']

@@ -1,1 +1,0 @@
-[31mCRITICAL[0m test_catalog:test_catalog.py:51 testing image accuracy for error_user

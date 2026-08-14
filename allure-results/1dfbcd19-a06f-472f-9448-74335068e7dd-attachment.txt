@@ -1,1 +1,0 @@
-Attempting to login with username: invalid_user and password: invalid_password

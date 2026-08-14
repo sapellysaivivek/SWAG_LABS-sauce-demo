@@ -1,1 +1,0 @@
-there is data inconsistency for ['$74.59', '$97.72', '$33.53', '$51.59', '$3.9']

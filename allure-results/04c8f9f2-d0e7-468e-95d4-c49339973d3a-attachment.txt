@@ -1,2 +1,0 @@
-2026-08-14 11:32:15,107 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']
-2026-08-14 11:32:16,155 - INFO - pages.cart_page - ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']

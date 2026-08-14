@@ -1,2 +1,0 @@
-[31mCRITICAL[0m test_catalog:test_catalog.py:24 starting products availability for error_user
-[31mCRITICAL[0m test_catalog:test_catalog.py:29 logged in successfully

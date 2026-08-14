@@ -1,1 +1,0 @@
-Attempted login with username:  and password: . Error message received: Epic sadface: Username is required

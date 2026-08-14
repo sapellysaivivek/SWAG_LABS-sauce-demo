@@ -1,1 +1,0 @@
-[32mINFO    [0m pages.cart_page:cart_page.py:31 ['Sauce Labs Bike Light', 'Sauce Labs Fleece Jacket', 'Test.allTheThings() T-Shirt (Red)']

@@ -1,1 +1,0 @@
-Attempted to access protected page without authentication. Current URL: https://www.saucedemo.com/
